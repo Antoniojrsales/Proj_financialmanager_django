@@ -1,0 +1,1 @@
+# Proj_financialmanager_django
